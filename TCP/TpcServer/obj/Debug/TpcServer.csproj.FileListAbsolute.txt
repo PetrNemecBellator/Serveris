@@ -1,0 +1,20 @@
+c:\users\oem\documents\visual studio 2015\Projects\TpcServer\TpcServer\bin\Debug\TpcServer.exe.config
+C:\Users\oem\Documents\Visual Studio 2015\Projects\TpcServer\TpcServer\bin\Debug\TpcServer.exe
+C:\Users\oem\Documents\Visual Studio 2015\Projects\TpcServer\TpcServer\bin\Debug\TpcServer.pdb
+C:\Users\oem\Documents\Visual Studio 2015\Projects\TpcServer\TpcServer\obj\Debug\TpcServer.csprojResolveAssemblyReference.cache
+C:\Users\oem\Documents\Visual Studio 2015\Projects\TpcServer\TpcServer\obj\Debug\TpcServer.exe
+C:\Users\oem\Documents\Visual Studio 2015\Projects\TpcServer\TpcServer\obj\Debug\TpcServer.pdb
+C:\Users\balda\Desktop\MyProjects\Petrodam\TpcServer\TpcServer\bin\Debug\TpcServer.exe.config
+C:\Users\balda\Desktop\MyProjects\Petrodam\TpcServer\TpcServer\bin\Debug\TpcServer.exe
+C:\Users\balda\Desktop\MyProjects\Petrodam\TpcServer\TpcServer\bin\Debug\TpcServer.pdb
+C:\Users\balda\Desktop\MyProjects\Petrodam\TpcServer\TpcServer\obj\Debug\TpcServer.csprojResolveAssemblyReference.cache
+C:\Users\balda\Desktop\MyProjects\Petrodam\TpcServer\TpcServer\obj\Debug\TpcServer.csproj.CoreCompileInputs.cache
+C:\Users\balda\Desktop\MyProjects\Petrodam\TpcServer\TpcServer\obj\Debug\TpcServer.exe
+C:\Users\balda\Desktop\MyProjects\Petrodam\TpcServer\TpcServer\obj\Debug\TpcServer.pdb
+C:\Users\petr\Desktop\serverLL\TCP\TpcServer\bin\Debug\TpcServer.exe.config
+C:\Users\petr\Desktop\serverLL\TCP\TpcServer\bin\Debug\TpcServer.exe
+C:\Users\petr\Desktop\serverLL\TCP\TpcServer\bin\Debug\TpcServer.pdb
+C:\Users\petr\Desktop\serverLL\TCP\TpcServer\obj\Debug\TpcServer.csprojAssemblyReference.cache
+C:\Users\petr\Desktop\serverLL\TCP\TpcServer\obj\Debug\TpcServer.csproj.CoreCompileInputs.cache
+C:\Users\petr\Desktop\serverLL\TCP\TpcServer\obj\Debug\TpcServer.exe
+C:\Users\petr\Desktop\serverLL\TCP\TpcServer\obj\Debug\TpcServer.pdb
